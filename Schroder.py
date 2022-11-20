@@ -101,7 +101,7 @@ def plot_optimized_parameters(vm_min=-70, vm_max=-45):
 
 
 if __name__ == "__main__":
-    print("Experiments on (Grabner et al., 2016)")
+    print("Experiments on (Schroder et al., 2021)")
     print()
     print("##################################################")
     print("### Data fitting and parameters of LNS models # Figure 5")
