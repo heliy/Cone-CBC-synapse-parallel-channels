@@ -10,7 +10,7 @@ Liuyuan He, Yutao He, Lei Ma, and Tiejun Huang (2022)
 
 - `lib`: library for RAB module, LN model, and LNS models.
 - `Grabner.py`: Experiments on (Grabner et al., 2016)
-- `Schroder.py`: Experiments on (Schroder et al., 2021)
+- `Schroeder.py`: Experiments on (Schroeder et al., 2021)
 
 # requirements
 
@@ -28,6 +28,7 @@ python3 Grabner.py
 ```
 
 > Experiments on (Grabner et al., 2016)
+> 
 > Load Optimized Models
 > 
 > ##################################################
@@ -62,13 +63,13 @@ python3 Grabner.py
 
 
 
-## for (Schroder et al., 2021)
+## for (Schroeder et al., 2021)
 
 ```
-python3 Schroder.py
+python3 Schroeder.py
 ```
 
-> Experiments on (Schroder et al., 2016)
+> Experiments on (Schroeder et al., 2016)
 > 
 > ##################################################      
 > ### Data fitting and parameters of LNS models # Figure 5
